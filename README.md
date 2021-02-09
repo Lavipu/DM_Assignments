@@ -4,5 +4,5 @@ Data Mining Assignments on:
 - Regression
 - Classification 
 - Caravan Challenge
-- CLustering
+- Clustering
 - Association Rules
