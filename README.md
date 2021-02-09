@@ -1,4 +1,4 @@
-# DM_Assignments
+# DataMining_Assignments
 
 Data Mining Assignments on: 
 - Regression
